@@ -15,9 +15,9 @@ const About = () => {
                     <Image src={DakshImg} alt="Daksh's Image" />
                 </div>
                 <div className={styles.info}>
-                    <h1>Hi there! I'm Daksh kumar</h1>
+                    <h1>Hi there! I&apos;m Daksh kumar</h1>
                     <h2 className='highlight'>Programmer</h2>
-                    <p>As a {year-2009}-year-old Indian, I've been coding for {year-2022} years, honing my skills in various technologies. From Python and Java to React and Node, I've delved into diverse areas, developing a passion for creating innovative solutions. My journey in coding has been exciting, and I look forward to further growth and challenges.</p>
+                    <p>As a {year-2009}-year-old Indian, I&apos;ve been coding for {year-2022} years, honing my skills in various technologies. From Python and Java to React and Node, I&apos;ve delved into diverse areas, developing a passion for creating innovative solutions. My journey in coding has been exciting, and I look forward to further growth and challenges.</p>
                     <div className={styles.myInfo}>
                         <p className={styles.infoGrid}><span>Birthday</span><span>May 29, 2009</span></p>
                         <p className={styles.infoGrid}><span>Email</span><span>k.daksh29@gmail.com</span></p>
